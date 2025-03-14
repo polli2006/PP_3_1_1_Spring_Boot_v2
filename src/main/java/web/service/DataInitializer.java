@@ -1,8 +1,7 @@
-package web.config;
+package web.service;
 
 import org.springframework.stereotype.Component;
 import web.model.User;
-import web.service.UserService;
 
 import javax.annotation.PostConstruct;
 import java.util.List;
